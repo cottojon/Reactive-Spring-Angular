@@ -1,4 +1,4 @@
-package Model;
+package com.landon.hotel.model;
 
 import java.time.LocalDate;
 
