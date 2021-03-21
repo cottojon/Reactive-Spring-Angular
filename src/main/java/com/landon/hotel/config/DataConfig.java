@@ -10,9 +10,5 @@ import org.springframework.context.annotation.Profile;
 @Import(EmbeddedMongoAutoConfiguration.class)
 public class DataConfig {
 	
-	public DataConfig() {
-		super();
-		System.out.println("Hello");
-	}
-  
+
 }
